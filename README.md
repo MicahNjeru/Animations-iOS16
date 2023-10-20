@@ -21,6 +21,3 @@ Animation course work from 100 Days of SwiftUI
 ### Dark Mode
 ![Dark Mode Scene 1](https://github.com/MicahNjeru/Animations-iOS16/blob/main/Images/8FA954C9-A0E5-4AB0-AF72-4E3AB02CC1B5_4_5005_c.jpeg)
 ![Dark Mode Scene 2](https://github.com/MicahNjeru/Animations-iOS16/blob/main/Images/52665BFA-0552-4C0F-8C68-26E0B773AA65_4_5005_c.jpeg)
-
-
-
