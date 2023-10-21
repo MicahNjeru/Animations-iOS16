@@ -3,9 +3,9 @@ Animation course work from 100 Days of SwiftUI
 
 ## Live Demo
 ### Light Mode
-![Light Mode GIF 1](https://github.com/MicahNjeru/Animations-iOS16/blob/main/Gifs/LightModeGif.gif)
+![Light Mode GIF](https://github.com/MicahNjeru/Animations-iOS16/blob/main/Gifs/LightModeGif.gif)
 ### Dark Mode
-![Dark Mode GIF 2](https://github.com/MicahNjeru/Animations-iOS16/blob/main/Gifs/DarkModeGif.gif)
+![Dark Mode GIF](https://github.com/MicahNjeru/Animations-iOS16/blob/main/Gifs/DarkModeGif.gif)
 
 ## Screenshots
 ### Light Mode
